@@ -19,3 +19,20 @@
 ![](https://komarev.com/ghpvc/?username=nyocanada&color=8A1124&style=plastic&label=victims&abbreviated=true)
 
 </div>‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=MORIJOSHI)
+
+</div>‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎

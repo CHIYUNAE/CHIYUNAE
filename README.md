@@ -27,7 +27,5 @@
 
 
 
-‎<p align="center">
-*would* ‎ ‎  you ‎ ‎  like ‎ ‎  it ‎ ‎  if ‎ ‎  i ‎ ‎  told ‎ ‎  you ‎ ‎  i ‎ ‎  **loved** ‎ ‎  you? ‎ ‎  (´ ∀ ` *)
-</p>
+‎
 

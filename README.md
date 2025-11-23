@@ -6,7 +6,7 @@
 ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
 
 <p align="center">
-    <img width="300" src="https://media1.tenor.com/m/wFCb6WgILssAAAAC/pitou-cute.gif">
+    <img width="300" src="https://media1.tenor.com/m/sLSGO6VxWzUAAAAC/pitou-ears.gif">
 </p>
 
 <div align="center">

@@ -6,7 +6,7 @@
 ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
 
 <p align="center">
-    <img width="300" src="https://media1.tenor.com/m/I8AEGoHwBIEAAAAd/gold-ship-golshi.gif">
+    <img width="300" src="https://media1.tenor.com/m/wFCb6WgILssAAAAC/pitou-cute.gif">
 </p>
 
 <div align="center">

@@ -6,7 +6,7 @@
 ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
 
 <p align="center">
-    <img width="300" src="https://media1.tenor.com/m/N1JKmiJy4k8AAAAC/neferpitou-pitou.gif">
+    <img width="300" src="https://i.pinimg.com/736x/55/82/63/55826369a3f0cf1547e22729e9de975e.jpg">
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=himephile&color=blue&style=plastic&label=VICTIMS)
+![](https://komarev.com/ghpvc/?username=himephile&color=lightgrey&style=plastic&label=VICTIMS)
 
 </div>‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎
 

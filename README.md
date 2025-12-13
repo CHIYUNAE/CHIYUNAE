@@ -7,7 +7,7 @@ untainted by complacent lives undone
 </div>‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
 
 <p align="center">
-    <img width="400" src="https://files.catbox.moe/4entzz.png">
+    <img width="400" src="https://files.catbox.moe/70v7f1.png">
 </p>
 
 <div align="center">

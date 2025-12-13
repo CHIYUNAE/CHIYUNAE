@@ -12,7 +12,7 @@ toxic yuri nuke , angels in my garden
 
 <div align="center">
 
-‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎  [**a**ta](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  
+‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎  [**a**ta](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[**r**entry](https://rentry.co/deathlists) ‎ ‎  
 
 </div>
 <div align="center">

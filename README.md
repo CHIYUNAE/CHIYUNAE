@@ -12,7 +12,7 @@ toxic yuri nuke , angels in my garden
 
 <div align="center">
 
-‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎  [**a**ta](https://hihiin.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  
+‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎  [**a**ta](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  
 
 </div>
 <div align="center">

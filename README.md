@@ -15,7 +15,7 @@ toxic yuri nuke
 
 <div align="center">
 
-[**a**ta](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[**r**entry](https://rentry.co/deathlists) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎[**b**yi](https://rentry.co/kriu) ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[**l**isto](https://listography.com/3408421752) ‎ ‎   ‎ ‎  
+[**a**ta](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[**r**entry](https://rentry.co/deathlists) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ [**b**yi](https://rentry.co/kriu) ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[**l**isto](https://listography.com/3408421752) ‎ ‎   ‎ ‎  
 
 </div>
 <div align="center">

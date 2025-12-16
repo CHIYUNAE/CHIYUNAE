@@ -9,7 +9,7 @@ toxic yuri nuke
 </div>‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
 
 <p align="center">
-<img width="100" src="https://64.media.tumblr.com/2e033fd1ca80a2b12a3fb71e2210776f/fceb2a90ed0a3105-2c/s1280x1920/1f35609f016707e1d473d99a74171a9f6773eb76.pnj">
+<img width="200" src="https://64.media.tumblr.com/3941b18469c4698405bc36c6c1647d59/7d8424fcfeabdf5e-7b/s400x600/1eccc7872b3cc21f7fbad2c602f2b296abfd425b.pnj">
 </p>
 
 

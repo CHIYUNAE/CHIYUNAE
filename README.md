@@ -1,13 +1,5 @@
  ‎  ‎ ‎ 
-  ‎  ‎ ‎ 
-</div>
-<div align="center">
- <code style="color : aqua">cute girls doing cute things</code>
-
-</div>‎ ‎ ‎‎ 
-
-
-</div>‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ 
+  ‎ 
 
 <p align="center">
  ‎ ‎  ‎  ‎ ‎   ‎ ‎  ‎  ‎ ‎  ‎ ‎ ‎‎<img width="300" src="https://files.catbox.moe/hao1va.png">
@@ -16,9 +8,18 @@
 
 <div align="center">
 
-[rentry](https://rentry.co/xoly) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ [atabook](https://necrosis.atabook.org) ‎ ‎‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎‎ ‎[clicks](https://arab.org)
+[1](https://rentry.co/xoly) ‎ ‎‎ ‎ ‎ ‎‎ [2](https://necrosis.atabook.org) ‎ ‎‎  ‎ ‎‎ ‎[3](https://arab.org)
 
 </div>
+
+</div>
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=putrescence&color=9BE6D3&style=plastic&label=yuri+soldiers)
+
+</div>‎ ‎ ‎‎ 
+</div>‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎
+
 <div align="center">
 
 </div>‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎

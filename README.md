@@ -1,9 +1,9 @@
- ‎  ‎ ‎ 
-  ‎ 
 
-<p align="center">
- ‎ ‎  ‎  ‎ ‎   ‎ ‎  ‎  ‎ ‎  ‎ ‎ ‎‎<img width="300" src="https://files.catbox.moe/hao1va.png">
-</p>
+<div align="center">
+ 
+ ‎ ‎  ‎  ‎ ‎   ‎ ‎  ‎  ‎ ‎  ‎ ‎ ‎‎[![Alt Text for Image](https://files.catbox.moe/hao1va.png)](https://rentry.co/gomi)
+ 
+</div>
 
 
 <div align="center">

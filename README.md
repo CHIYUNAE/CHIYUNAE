@@ -18,17 +18,16 @@
 ![](https://komarev.com/ghpvc/?username=putrescence&color=555555&style=for-the-badge&label=yuri+soldiers)
 
 </div>‎ ‎ ‎‎ 
+‎
+<div align="center">
+ 
+[![Alt Text for Image](https://files.catbox.moe/7teqzn.png)](https://rentry.co/sunwe)
+ 
+</div>
 
 <div align="center">
  
-[![Alt Text for Image](https://files.catbox.moe/c89f06.png)](https://hikikomori.atabook.org)
+[![Alt Text for Image](https://files.catbox.moe/eyzqw3.png)](https://hikikomori.atabook.org)
  
-</div>
-‎
-<div align="center">
- 
-[![Alt Text for Image](https://files.catbox.moe/0r2nbf.png)](https://rentry.co/sunwe)
- 
-</div>
-‎
+</div>‎
 

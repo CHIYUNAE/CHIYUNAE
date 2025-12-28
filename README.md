@@ -21,13 +21,13 @@
 ‎
 <div align="center">
  
-[![Alt Text for Image](https://files.catbox.moe/7teqzn.png)](https://rentry.co/sunwe)
+[![Alt Text for Image](https://files.catbox.moe/mgzvwi.png)](https://rentry.co/sunwe)
  
 </div>
 
 <div align="center">
  
-[![Alt Text for Image](https://files.catbox.moe/eyzqw3.png)](https://hikikomori.atabook.org)
+[![Alt Text for Image](https://files.catbox.moe/1d1sbc.png)](https://hikikomori.atabook.org)
  
 </div>‎
 

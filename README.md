@@ -1,11 +1,13 @@
 ‎
 
 <div align="center">
- 
- ‎ ‎  ‎  ‎ ‎   ‎ ‎  ‎  ‎ ‎  ‎ ‎ ‎‎[![Alt Text for Image](https://files.catbox.moe/zxm03o.png)](https://rentry.co/gomi)
+
+<img src="https://files.catbox.moe/zxm03o.png" width="600" />
  
 </div>
 
+
+‎ ‎ 
 
 <div align="center">
 
@@ -31,3 +33,8 @@
  
 </div>‎
 
+<div align="center">
+
+![](https://files.catbox.moe/rk85gl.gif)
+ 
+</div>

@@ -29,8 +29,6 @@
 
 <div align="center">
 
-![hippo](https://s8.ezgif.com/tmp/ezgif-8cb880532eeb2b5e.webp)
-
 
 </div>
 

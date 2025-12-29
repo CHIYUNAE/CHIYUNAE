@@ -42,6 +42,5 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=and+the+angels+who+did+not+keep+their+own+;domain+but+abandoned+their+proper+abode;he+has+kept+in+eternal+bonds+under+;darkness+for+the+judgment+of+the+great+day)](https://git.io/typing-svg)
 
 </div>

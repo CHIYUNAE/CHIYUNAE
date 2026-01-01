@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/7w793a.webp" width="320" />
+<img src="https://files.catbox.moe/7w793a.webp" width="250" />
  
 </div>
 

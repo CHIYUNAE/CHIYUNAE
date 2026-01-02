@@ -18,6 +18,8 @@
 
 <div align="center">
 
+$\textcolor{#C0372D}{\textsf{be nice 2 me}}$
+
 
 </div>
 

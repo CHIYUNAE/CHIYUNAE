@@ -3,9 +3,11 @@
 ‎ ‎
 ‎ 
 ‎ 
-‎ 
-‎ 
-‎ 
+‎ <div align="center">
+
+‎ ‎ [ntry](rentry.co/ukecel) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [ata](yaoied.atabook.org)‎ ‎ ‎ 
+ 
+</div>
 
 <div align="center">
 

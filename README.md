@@ -3,7 +3,7 @@
 ‎ ‎
 ‎ 
 ‎ 
-‎ <div align="left">
+‎ <div align="right">
 
 ‎ ‎ [‎¹](rentry.co/ukecel) ‎ ‎ ‎ [²](yaoied.atabook.org)‎ ‎ ‎ 
  

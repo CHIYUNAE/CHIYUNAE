@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/ppuyqr.png" width="250" />
+<img src="https://files.catbox.moe/903zwe.png" width="250" />
  
 </div>
 
@@ -24,7 +24,7 @@
 </div>
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=putrescence&color=blue&style=plastic&label=♬) 
+![](https://komarev.com/ghpvc/?username=putrescence&color=red&style=plastic&label=♬) 
 
 
 </div>‎ ‎ ‎‎ 

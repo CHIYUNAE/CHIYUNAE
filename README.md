@@ -5,7 +5,7 @@
 ‎ 
 ‎ <div align="right">
 
-‎ ‎ [‎¹](rentry.co/ukecel) ‎ ‎ ‎ [²](yaoied.atabook.org)‎ ‎ ‎ 
+‎ ‎ [‎¹](https://rentry.co/ukecel) ‎ ‎ ‎ [²](https://yaoied.atabook.org)‎ ‎ ‎ 
  
 </div>
 

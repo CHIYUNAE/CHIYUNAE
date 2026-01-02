@@ -36,7 +36,8 @@ $\textcolor{#C0372D}{\textsf{be nice 2 me}}$
 
 <div align="center">
 
-![](https://media1.tenor.com/m/7vLv93e0AZ8AAAAd/childe.gif)
+<img src="https://media1.tenor.com/m/7vLv93e0AZ8AAAAd/childe.gif" width="60" />
+
 
 </div>
 

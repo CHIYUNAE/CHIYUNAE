@@ -10,7 +10,6 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/cge1n1.png" width="200" />
  
 </div>
 
